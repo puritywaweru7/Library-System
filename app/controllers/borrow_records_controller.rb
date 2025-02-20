@@ -1,0 +1,2 @@
+class BorrowRecordsController < ApplicationController
+end
